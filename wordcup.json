@@ -1,0 +1,1378 @@
+{
+  "year": 1978,
+  "hostCountry": "Argentina",
+  "finalMath": {
+    "winner": "Argentina",
+    "loser": "Países Bajos",
+    "result": "3-1 (prórroga)"
+  },
+  "matches": [
+    {
+      "date": "1978-06-02",
+      "teams": {
+        "home": "Argentina",
+        "away": "Hungría"
+      },
+      "result": "2-1",
+      "stadium": "Estadio Monumental, Buenos Aires",
+      "scorers": [
+        {
+          "player": "Károly Csapó",
+          "minute": 9,
+          "country": "Hungría"
+        },
+        {
+          "player": "Leopoldo Luque",
+          "minute": 14,
+          "country": "Argentina"
+        },
+        {
+          "player": "Daniel Bertoni",
+          "minute": 83,
+          "country": "Argentina"
+        }
+      ]
+    },
+    {
+      "date": "1978-06-06",
+      "teams": {
+        "home": "Argentina",
+        "away": "Francia"
+      },
+      "result": "2-1",
+      "stadium": "Estadio Monumental, Buenos Aires",
+      "scorers": [
+        {
+          "player": "Daniel Passarella",
+          "minute": 45,
+          "country": "Argentina"
+        },
+        {
+          "player": "Michel Platini",
+          "minute": 60,
+          "country": "Francia"
+        },
+        {
+          "player": "Leopoldo Luque",
+          "minute": 73,
+          "country": "Argentina"
+        }
+      ]
+    },
+    {
+      "date": "1978-06-10",
+      "teams": {
+        "home": "Argentina",
+        "away": "Italia"
+      },
+      "result": "0-1",
+      "stadium": "Estadio Monumental, Buenos Aires",
+      "scorers": [
+        {
+          "player": "Roberto Bettega",
+          "minute": 67,
+          "country": "Italia"
+        }
+      ]
+    },
+    {
+      "date": "1978-06-14",
+      "teams": {
+        "home": "Argentina",
+        "away": "Polonia"
+      },
+      "result": "2-0",
+      "stadium": "Estadio Gigante de Arroyito, Rosario",
+      "scorers": [
+        {
+          "player": "Mario Kempes",
+          "minute": 16,
+          "country": "Argentina"
+        },
+        {
+          "player": "Mario Kempes",
+          "minute": 71,
+          "country": "Argentina"
+        }
+      ]
+    },
+    {
+      "date": "1978-06-18",
+      "teams": {
+        "home": "Argentina",
+        "away": "Brasil"
+      },
+      "result": "0-0",
+      "stadium": "Estadio Gigante de Arroyito, Rosario",
+      "scorers": null
+    },
+    {
+      "date": "1978-06-21",
+      "teams": {
+        "home": "Argentina",
+        "away": "Peru"
+      },
+      "result": "6-0",
+      "stadium": "Estadio Gigante de Arroyito, Rosario",
+      "scorers": [
+        {
+          "player": "Mario Kempes",
+          "minute": 21,
+          "country": "Argentina"
+        },
+        {
+          "player": "Alberto Tarantini",
+          "minute": 43,
+          "country": "Argentina"
+        },
+        {
+          "player": "Mario Kempes",
+          "minute": 46,
+          "country": "Argentina"
+        },
+        {
+          "player": "Leopoldo Luque",
+          "minute": 50,
+          "country": "Argentina"
+        },
+        {
+          "player": "René Houseman",
+          "minute": 67,
+          "country": "Argentina"
+        },
+        {
+          "player": "Leopoldo Luque",
+          "minute": 72,
+          "country": "Argentina"
+        }
+      ]
+    }
+  ],
+  "players": [
+    {
+      "name": "Norberto Alonso",
+      "club": "River Plate",
+      "birthdate": "1953-01-04",
+      "position": "Mediocampista"
+    },
+    {
+      "name": "Osvaldo Ardiles",
+      "club": "Huracán",
+      "birthdate": "1953-08-03",
+      "position": "Mediocampista"
+    },
+    {
+      "name": "Héctor Baley",
+      "club": "Huracán",
+      "birthdate": "1950-07-21",
+      "position": "Arquero"
+    },
+    {
+      "name": "Daniel Bertoni",
+      "club": "Independiente",
+      "birthdate": "1955-03-14",
+      "position": "Delantero"
+    },
+    {
+      "name": "Ubaldo Fillol",
+      "club": "River Plate",
+      "birthdate": "1950-07-21",
+      "position": "Arquero"
+    },
+    {
+      "name": "Américo Gallego",
+      "club": "Newell's Old Boys",
+      "birthdate": "1955-04-25",
+      "position": "Mediocampista"
+    },
+    {
+      "name": "Luis Galván",
+      "club": "Talleres",
+      "birthdate": "1948-02-11",
+      "position": "Defensa"
+    },
+    {
+      "name": "Rubén Galván",
+      "club": "Independiente",
+      "birthdate": "1951-12-23",
+      "position": "Mediocampista"
+    },
+    {
+      "name": "René Houseman",
+      "club": "Huracán",
+      "birthdate": "1953-07-19",
+      "position": "Delantero"
+    },
+    {
+      "name": "Mario Alberto Kempes",
+      "club": "Valencia CF",
+      "birthdate": "1954-07-15",
+      "position": "Delantero"
+    },
+    {
+      "name": "Daniel Killer",
+      "club": "Racing Club",
+      "birthdate": "1950-01-22",
+      "position": "Defensa"
+    },
+    {
+      "name": "Omar Larrosa",
+      "club": "Independiente",
+      "birthdate": "1952-02-22",
+      "position": "Mediocampista"
+    },
+    {
+      "name": "Ricardo La Volpe",
+      "club": "San Lorenzo",
+      "birthdate": "1950-02-06",
+      "position": "Arquero"
+    },
+    {
+      "name": "Leopoldo Jacinto Luque",
+      "club": "River Plate",
+      "birthdate": "1949-05-03",
+      "position": "Delantero"
+    },
+    {
+      "name": "Jorge Mario Olguín",
+      "club": "San Lorenzo",
+      "birthdate": "1950-10-30",
+      "position": "Defensa"
+    },
+    {
+      "name": "Oscar Ortiz",
+      "club": "River Plate",
+      "birthdate": "1952-07-17",
+      "position": "Delantero"
+    },
+    {
+      "name": "Miguel Oviedo",
+      "club": "Talleres",
+      "birthdate": "1951-01-12",
+      "position": "Defensa"
+    },
+    {
+      "name": "Rubén Pagnanini",
+      "club": "Independiente",
+      "birthdate": "1949-11-24",
+      "position": "Defensa"
+    },
+    {
+      "name": "Daniel Passarella",
+      "club": "River Plate",
+      "birthdate": "1953-05-25",
+      "position": "Defensa"
+    },
+    {
+      "name": "Alberto Tarantini",
+      "club": "Birmingham City",
+      "birthdate": "1955-12-03",
+      "position": "Defensa"
+    },
+    {
+      "name": "José Daniel Valencia",
+      "club": "Talleres",
+      "birthdate": "1955-02-18",
+      "position": "Mediocampista"
+    },
+    {
+      "name": "Ricardo Villa",
+      "club": "Racing Club",
+      "birthdate": "1952-08-18",
+      "position": "Mediocampista"
+    }
+  ],
+  "dt": {
+    "name": "César Luis Menotti",
+    "birthdate": "1938-11-05"
+  }
+}
+
+{
+  "year": 1986,
+  "hostCountry": "México",
+  "finalMath": {
+    "winner": "Argentina",
+    "loser": "Alemania",
+    "result": "3-2 (prórroga)"
+  },
+  "matches": [
+    {
+      "date": "1986-06-02",
+      "teams": {
+        "home": "Argentina",
+        "away": "Corea del Sur"
+      },
+      "result": "3-1",
+      "stadium": "Estadio Olímpico Universitario, Ciudad de México",
+      "scorers": [
+        {
+          "player": "Jorge Valdano",
+          "minute": 6,
+          "country": "Argentina"
+        },
+        {
+          "player": "José Luis Brown",
+          "minute": 18,
+          "country": "Argentina"
+        },
+        {
+          "player": "Jorge Valdano",
+          "minute": 46,
+          "country": "Argentina"
+        },
+        {
+          "player": "Park",
+          "minute": 73,
+          "country": "Corea del Sur"
+        }
+      ]
+    },
+    {
+      "date": "1986-06-05",
+      "teams": {
+        "home": "Italia",
+        "away": "Argentina"
+      },
+      "result": "1-1",
+      "stadium": "Estadio Cuauhtémoc, Puebla",
+      "scorers": [
+        {
+          "player": "Altobelli",
+          "minute": 6,
+          "country": "Italia"
+        },
+        {
+          "player": "Diego Maradona",
+          "minute": 34,
+          "country": "Argentina"
+        }
+      ]
+    },
+    {
+      "date": "1986-06-10",
+      "teams": {
+        "home": "Argentina",
+        "away": "Bulgaria"
+      },
+      "result": "2-0 (1:0)",
+      "stadium": "Estadio Olímpico Universitario, Ciudad de México",
+      "scorers": [
+        {
+          "player": "Jorge Valdano",
+          "minute": 3,
+          "country": "Argentina"
+        },
+        {
+          "player": "Jorge Burruchaga",
+          "minute": 76,
+          "country": "Argentina"
+        }
+      ]
+    },
+    {
+      "date": "1986-06-16",
+      "teams": {
+        "home": "Argentina",
+        "away": "Uruguay"
+      },
+      "result": "1-0",
+      "stadium": "Estadio Cuauhtémoc, Puebla",
+      "scorers": [
+        {
+          "player": "Pedro Pasculli",
+          "minute": 42,
+          "country": "Argentina"
+        }
+      ]
+    },
+    {
+      "date": "1986-06-22",
+      "teams": {
+        "home": "Argentina",
+        "away": "Inglaterra"
+      },
+      "result": "2-1",
+      "stadium": "Estadio Azteca, Ciudad de México",
+      "scorers": [
+        {
+          "player": "Diego Maradona",
+          "minute": 51,
+          "country": "Argentina"
+        },
+        {
+          "player": "Diego Maradona",
+          "minute": 55,
+          "country": "Argentina"
+        },
+        {
+          "player": "Gary Lineker",
+          "minute": 81,
+          "country": "Inglaterra"
+        }
+      ]
+    },
+    {
+      "date": "1986-06-25",
+      "teams": {
+        "home": "Argentina",
+        "away": "Bélgica"
+      },
+      "result": "2-0",
+      "stadium": "Estadio Azteca, Ciudad de México",
+      "scorers": [
+        {
+          "player": "Diego Maradona",
+          "minute": 51,
+          "country": "Argentina"
+        },
+        {
+          "player": "Diego Maradona",
+          "minute": 63,
+          "country": "Argentina"
+        }
+      ]
+    },
+    {
+      "date": "1986-06-29",
+      "teams": {
+        "home": "Argentina",
+        "away": "Alemania"
+      },
+      "result": "3-2",
+      "stadium": "Estadio Azteca, Ciudad de México",
+      "scorers": [
+        {
+          "player": "José Luis Brown",
+          "minute": 23,
+          "country": "Argentina"
+        },
+        {
+          "player": "Jorge Valdano",
+          "minute": 56,
+          "country": "Argentina"
+        },
+        {
+          "player": "Jorge Burruchaga",
+          "minute": 84,
+          "country": "Argentina"
+        },
+        {
+          "player": "Karl-Heinz Rummenigge",
+          "minute": 74,
+          "country": "Alemania"
+        },
+        {
+          "player": "Rudi Völler",
+          "minute": 81,
+          "country": "Alemania"
+        }
+      ]
+    }
+  ],
+  "players": [
+    {
+      "name": "Sergio Almirón",
+      "club": "Club Atlético Newell's Old Boys",
+      "birthdate": "1958-11-18",
+      "position": "Delantero"
+    },
+    {
+      "name": "Sergio Batista",
+      "club": "Asociación Atlética Argentinos Juniors",
+      "birthdate": "1958-11-09",
+      "position": "Centrocampista"
+    },
+    {
+      "name": "Ricardo Bochini",
+      "club": "Club Atlético Independiente",
+      "birthdate": "1954-01-25",
+      "position": "Centrocampista"
+    },
+    {
+      "name": "Claudio Borghi",
+      "club": "Asociación Atlética Argentinos Juniors",
+      "birthdate": "1964-07-26",
+      "position": "Centrocampista"
+    },
+    {
+      "name": "José Luis Brown †",
+      "club": "Club Atlético Boca Juniors",
+      "birthdate": "1956-11-10",
+      "position": "Defensa"
+    },
+    {
+      "name": "Daniel Passarella",
+      "club": "FC Internazionale",
+      "birthdate": "1953-05-25",
+      "position": "Defensa"
+    },
+    {
+      "name": "Jorge Burruchaga",
+      "club": "Football Club Nantes",
+      "birthdate": "1962-09-09",
+      "position": "Delantero"
+    },
+    {
+      "name": "Néstor Clausen",
+      "club": "Club Atlético Independiente",
+      "birthdate": "1962-09-29",
+      "position": "Defensa"
+    },
+    {
+      "name": "José Luis Cuciuffo †",
+      "club": "Club Atlético Vélez Sarsfield",
+      "birthdate": "1961-02-01",
+      "position": "Defensa"
+    },
+    {
+      "name": "Diego Maradona Capitán †",
+      "club": "S. S. C. Napoli",
+      "birthdate": "1960-10-30",
+      "position": "Centrocampista"
+    },
+    {
+      "name": "Jorge Valdano",
+      "club": "Real Madrid Club de Futbol",
+      "birthdate": "1955-10-04",
+      "position": "Delantero"
+    },
+    {
+      "name": "Héctor Enrique",
+      "club": "Club Atlético River Plate",
+      "birthdate": "1962-04-26",
+      "position": "Centrocampista"
+    },
+    {
+      "name": "Oscar Garré",
+      "club": "Club Ferro Carril Oeste",
+      "birthdate": "1956-12-19",
+      "position": "Defensa"
+    },
+    {
+      "name": "Ricardo Giusti",
+      "club": "Club Atlético Independiente",
+      "birthdate": "1956-12-11",
+      "position": "Centrocampista"
+    },
+    {
+      "name": "Luis Islas",
+      "club": "Club Estudiantes de La Plata",
+      "birthdate": "1965-12-22",
+      "position": "Guardameta"
+    },
+    {
+      "name": "Julio Olarticoechea",
+      "club": "Club Atlético Boca Juniors",
+      "birthdate": "1958-10-18",
+      "position": "Centrocampista"
+    },
+    {
+      "name": "Pedro Pasculli",
+      "club": "US Lecce",
+      "birthdate": "1960-05-17",
+      "position": "Delantero"
+    },
+    {
+      "name": "Nery Pumpido",
+      "club": "Club Atlético River Plate",
+      "birthdate": "1957-07-30",
+      "position": "Guardameta"
+    },
+    {
+      "name": "Oscar Ruggeri",
+      "club": "Club Atlético River Plate",
+      "birthdate": "1962-01-26",
+      "position": "Defensa"
+    },
+    {
+      "name": "Carlos Daniel Tapia",
+      "club": "Club Atlético Boca Juniors",
+      "birthdate": "1962-08-20",
+      "position": "Centrocampista"
+    },
+    {
+      "name": "Marcelo Trobbiani",
+      "club": "Millonarios Fútbol Club",
+      "birthdate": "1955-02-17",
+      "position": "Centrocampista"
+    },
+    {
+      "name": "Héctor Miguel Zelada",
+      "club": "Club América",
+      "birthdate": "1957-04-30",
+      "position": "Guardameta"
+    }
+  ],
+  "dt": {
+    "name": "Carlos Bilardo",
+    "birthdate": "1938-03-16"
+  }
+}
+
+
+{
+  "year": 1986,
+  "hostCountry": "México",
+  "finalMath": {
+    "winner": "Argentina",
+    "loser": "Alemania",
+    "result": "3-2 (prórroga)"
+  },
+  "matches": [
+    {
+      "date": "1986-06-02",
+      "teams": {
+        "home": "Argentina",
+        "away": "Corea del Sur"
+      },
+      "result": "3-1",
+      "stadium": "Estadio Olímpico Universitario, Ciudad de México",
+      "scorers": [
+        {
+          "player": "Jorge Valdano",
+          "minute": 6,
+          "country": "Argentina"
+        },
+        {
+          "player": "José Luis Brown",
+          "minute": 18,
+          "country": "Argentina"
+        },
+        {
+          "player": "Jorge Valdano",
+          "minute": 46,
+          "country": "Argentina"
+        },
+        {
+          "player": "Park",
+          "minute": 73,
+          "country": "Corea del Sur"
+        }
+      ]
+    },
+    {
+      "date": "1986-06-05",
+      "teams": {
+        "home": "Italia",
+        "away": "Argentina"
+      },
+      "result": "1-1",
+      "stadium": "Estadio Cuauhtémoc, Puebla",
+      "scorers": [
+        {
+          "player": "Altobelli",
+          "minute": 6,
+          "country": "Italia"
+        },
+        {
+          "player": "Diego Maradona",
+          "minute": 34,
+          "country": "Argentina"
+        }
+      ]
+    },
+    {
+      "date": "1986-06-10",
+      "teams": {
+        "home": "Argentina",
+        "away": "Bulgaria"
+      },
+      "result": "2-0 (1:0)",
+      "stadium": "Estadio Olímpico Universitario, Ciudad de México",
+      "scorers": [
+        {
+          "player": "Jorge Valdano",
+          "minute": 3,
+          "country": "Argentina"
+        },
+        {
+          "player": "Jorge Burruchaga",
+          "minute": 76,
+          "country": "Argentina"
+        }
+      ]
+    },
+    {
+      "date": "1986-06-16",
+      "teams": {
+        "home": "Argentina",
+        "away": "Uruguay"
+      },
+      "result": "1-0",
+      "stadium": "Estadio Cuauhtémoc, Puebla",
+      "scorers": [
+        {
+          "player": "Pedro Pasculli",
+          "minute": 42,
+          "country": "Argentina"
+        }
+      ]
+    },
+    {
+      "date": "1986-06-22",
+      "teams": {
+        "home": "Argentina",
+        "away": "Inglaterra"
+      },
+      "result": "2-1",
+      "stadium": "Estadio Azteca, Ciudad de México",
+      "scorers": [
+        {
+          "player": "Diego Maradona",
+          "minute": 51,
+          "country": "Argentina"
+        },
+        {
+          "player": "Diego Maradona",
+          "minute": 55,
+          "country": "Argentina"
+        },
+        {
+          "player": "Gary Lineker",
+          "minute": 81,
+          "country": "Inglaterra"
+        }
+      ]
+    },
+    {
+      "date": "1986-06-25",
+      "teams": {
+        "home": "Argentina",
+        "away": "Bélgica"
+      },
+      "result": "2-0",
+      "stadium": "Estadio Azteca, Ciudad de México",
+      "scorers": [
+        {
+          "player": "Diego Maradona",
+          "minute": 51,
+          "country": "Argentina"
+        },
+        {
+          "player": "Diego Maradona",
+          "minute": 63,
+          "country": "Argentina"
+        }
+      ]
+    },
+    {
+      "date": "1986-06-29",
+      "teams": {
+        "home": "Argentina",
+        "away": "Alemania"
+      },
+      "result": "3-2",
+      "stadium": "Estadio Azteca, Ciudad de México",
+      "scorers": [
+        {
+          "player": "José Luis Brown",
+          "minute": 23,
+          "country": "Argentina"
+        },
+        {
+          "player": "Jorge Valdano",
+          "minute": 56,
+          "country": "Argentina"
+        },
+        {
+          "player": "Jorge Burruchaga",
+          "minute": 84,
+          "country": "Argentina"
+        },
+        {
+          "player": "Karl-Heinz Rummenigge",
+          "minute": 74,
+          "country": "Alemania"
+        },
+        {
+          "player": "Rudi Völler",
+          "minute": 81,
+          "country": "Alemania"
+        }
+      ]
+    }
+  ],
+  "players": [
+    {
+      "name": "Sergio Almirón",
+      "club": "Club Atlético Newell's Old Boys",
+      "birthdate": "1958-11-18",
+      "position": "Delantero"
+    },
+    {
+      "name": "Sergio Batista",
+      "club": "Asociación Atlética Argentinos Juniors",
+      "birthdate": "1958-11-09",
+      "position": "Centrocampista"
+    },
+    {
+      "name": "Ricardo Bochini",
+      "club": "Club Atlético Independiente",
+      "birthdate": "1954-01-25",
+      "position": "Centrocampista"
+    },
+    {
+      "name": "Claudio Borghi",
+      "club": "Asociación Atlética Argentinos Juniors",
+      "birthdate": "1964-07-26",
+      "position": "Centrocampista"
+    },
+    {
+      "name": "José Luis Brown †",
+      "club": "Club Atlético Boca Juniors",
+      "birthdate": "1956-11-10",
+      "position": "Defensa"
+    },
+    {
+      "name": "Daniel Passarella",
+      "club": "FC Internazionale",
+      "birthdate": "1953-05-25",
+      "position": "Defensa"
+    },
+    {
+      "name": "Jorge Burruchaga",
+      "club": "Football Club Nantes",
+      "birthdate": "1962-09-09",
+      "position": "Delantero"
+    },
+    {
+      "name": "Néstor Clausen",
+      "club": "Club Atlético Independiente",
+      "birthdate": "1962-09-29",
+      "position": "Defensa"
+    },
+    {
+      "name": "José Luis Cuciuffo †",
+      "club": "Club Atlético Vélez Sarsfield",
+      "birthdate": "1961-02-01",
+      "position": "Defensa"
+    },
+    {
+      "name": "Diego Maradona Capitán †",
+      "club": "S. S. C. Napoli",
+      "birthdate": "1960-10-30",
+      "position": "Centrocampista"
+    },
+    {
+      "name": "Jorge Valdano",
+      "club": "Real Madrid Club de Futbol",
+      "birthdate": "1955-10-04",
+      "position": "Delantero"
+    },
+    {
+      "name": "Héctor Enrique",
+      "club": "Club Atlético River Plate",
+      "birthdate": "1962-04-26",
+      "position": "Centrocampista"
+    },
+    {
+      "name": "Oscar Garré",
+      "club": "Club Ferro Carril Oeste",
+      "birthdate": "1956-12-19",
+      "position": "Defensa"
+    },
+    {
+      "name": "Ricardo Giusti",
+      "club": "Club Atlético Independiente",
+      "birthdate": "1956-12-11",
+      "position": "Centrocampista"
+    },
+    {
+      "name": "Luis Islas",
+      "club": "Club Estudiantes de La Plata",
+      "birthdate": "1965-12-22",
+      "position": "Guardameta"
+    },
+    {
+      "name": "Julio Olarticoechea",
+      "club": "Club Atlético Boca Juniors",
+      "birthdate": "1958-10-18",
+      "position": "Centrocampista"
+    },
+    {
+      "name": "Pedro Pasculli",
+      "club": "US Lecce",
+      "birthdate": "1960-05-17",
+      "position": "Delantero"
+    },
+    {
+      "name": "Nery Pumpido",
+      "club": "Club Atlético River Plate",
+      "birthdate": "1957-07-30",
+      "position": "Guardameta"
+    },
+    {
+      "name": "Oscar Ruggeri",
+      "club": "Club Atlético River Plate",
+      "birthdate": "1962-01-26",
+      "position": "Defensa"
+    },
+    {
+      "name": "Carlos Daniel Tapia",
+      "club": "Club Atlético Boca Juniors",
+      "birthdate": "1962-08-20",
+      "position": "Centrocampista"
+    },
+    {
+      "name": "Marcelo Trobbiani",
+      "club": "Millonarios Fútbol Club",
+      "birthdate": "1955-02-17",
+      "position": "Centrocampista"
+    },
+    {
+      "name": "Héctor Miguel Zelada",
+      "club": "Club América",
+      "birthdate": "1957-04-30",
+      "position": "Guardameta"
+    }
+  ],
+  "dt": {
+    "name": "Carlos Bilardo",
+    "birthdate": "1938-03-16"
+  }
+}
+
+{
+  "year": 2022,
+  "hostCountry": "Qatar",
+  "finalMatch": {
+    "winner": "Argentina",
+    "loser": "Francia",
+    "result": "3-3 (4-2 p.)"
+  },
+  "matches": [
+    {
+      "date": "2022-11-22",
+      "teams": {
+        "home": "Argentina",
+        "away": "Arabia Saudita"
+      },
+      "result": "1-2",
+      "stadium": "Estadio de Lusail, Lusail",
+      "scorers": [
+        {
+          "player": "Lionel Messi",
+          "minute": 10,
+          "country": "Argentina"
+        },
+        {
+          "player": "Al-Shehri",
+          "minute": 48,
+          "country": "Arabia Saudita"
+        },
+        {
+          "player": "Al-Dawsari",
+          "minute": 53,
+          "country": "Arabia Saudita"
+        }
+      ]
+    },
+    {
+      "date": "2022-11-26",
+      "teams": {
+        "home": "Argentina",
+        "away": "México"
+      },
+      "result": "2-0",
+      "stadium": "Estadio de Lusail, Lusail",
+      "scorers": [
+        {
+          "player": "Lionel Messi",
+          "minute": 64,
+          "country": "Argentina"
+        },
+        {
+          "player": "Enzo Fernández",
+          "minute": 87,
+          "country": "Argentina"
+        }
+      ]
+    },
+    {
+      "date": "2022-11-30",
+      "teams": {
+        "home": "Polonia",
+        "away": "Argentina"
+      },
+      "result": "0-2",
+      "stadium": "Estadio 974, Doha",
+      "scorers": [
+        {
+          "player": "Alexis Mac Allister",
+          "minute": 46,
+          "country": "Argentina"
+        },
+        {
+          "player": "Julian Álvarez",
+          "minute": 68,
+          "country": "Argentina"
+        }
+      ]
+    }[
+      {
+        "date": "2022-12-03",
+        "teams": {
+          "home": "Argentina",
+          "away": "Australia"
+        },
+        "result": "2-1",
+        "stadium": "Estadio de Lusail, Lusail",
+        "scorers": [
+          {
+            "player": "Lionel Messi",
+            "minute": 34,
+            "country": "Argentina"
+          },
+          {
+            "player": "Julián Álvarez",
+            "minute": 56,
+            "country": "Argentina"
+          }
+        ]
+      },
+      {
+        "date": "2022-12-09",
+        "teams": {
+          "home": "Países Bajos",
+          "away": "Argentina"
+        },
+        "result": "2-2 (3-4 p.)",
+        "stadium": "Estadio de Lusail, Lusail",
+        "scorers": [
+          {
+            "player": "Nahuel Molina",
+            "minute": 35,
+            "country": "Argentina"
+          },
+          {
+            "player": "Lionel Messi",
+            "minute": 73,
+            "country": "Argentina"
+          },
+          {
+            "player": "Wout Weghorst",
+            "minute": 83,
+            "country": "Países Bajos"
+          },
+          {
+            "player": "Wout Weghorst",
+            "minute": 90,
+            "country": "Países Bajos"
+          }
+        ]
+      },
+      {
+        "date": "2022-12-13",
+        "teams": {
+          "home": "Argentina",
+          "away": "Croacia"
+        },
+        "result": "3-0",
+        "stadium": "Estadio de Lusail, Lusail",
+        "scorers": [
+          {
+            "player": "Lionel Messi",
+            "minute": 34,
+            "country": "Argentina"
+          },
+          {
+            "player": "Julián Álvarez",
+            "minute": 39,
+            "country": "Argentina"
+          },
+          {
+            "player": "Julián Álvarez",
+            "minute": 69,
+            "country": "Argentina"
+          }
+        ]
+      },
+      {
+        "date": "2022-12-18",
+        "teams": {
+          "home": "Argentina",
+          "away": "Francia"
+        },
+        "result": "3-3 (4-2 p.)",
+        "stadium": "Estadio de Lusail, Lusail",
+        "scorers": [
+          {
+            "player": "Lionel Messi",
+            "minute": 23,
+            "country": "Argentina"
+          },
+          {
+            "player": "Lionel Messi",
+            "minute": 109,
+            "country": "Argentina"
+          },
+          {
+            "player": "Ángel Di María",
+            "minute": 36,
+            "country": "Argentina"
+          },
+          {
+            "player": "Kylian Mbappé",
+            "minute": 80,
+            "country": "Francia"
+          },
+          {
+            "player": "Kylian Mbappé",
+            "minute": 81,
+            "country": "Francia"
+          },
+          {
+            "player": "Kylian Mbappé",
+            "minute": 118,
+            "country": "Francia"
+          }
+        ]
+      }
+    ]
+    
+  ],
+  "players": [
+    {
+      "name": "Franco Armani",
+      "club": "River Plate",
+      "birthdate": "1986-10-16",
+      "position": "Guardameta"
+    },
+    {
+      "name": "Gerónimo Rulli",
+      "club": "Villarreal",
+      "birthdate": "1992-05-20",
+      "position": "Guardameta"
+    },
+    {
+      "name": "Emiliano Martínez",
+      "club": "Aston Villa",
+      "birthdate": "1992-09-02",
+      "position": "Guardameta"
+    },
+    {
+      "name": "Juan Foyth",
+      "club": "Villarreal",
+      "birthdate": "1998-01-12",
+      "position": "Defensa"
+    },
+    {
+      "name": "Nicolás Tagliafico",
+      "club": "Olympique Lyonnais",
+      "birthdate": "1992-08-31",
+      "position": "Defensa"
+    },
+    {
+      "name": "Gonzalo Montiel",
+      "club": "Sevilla",
+      "birthdate": "1997-01-01",
+      "position": "Defensa"
+    },
+    {
+      "name": "Germán Pezzella",
+      "club": "Real Betis",
+      "birthdate": "1991-06-27",
+      "position": "Defensa"
+    },
+    {
+      "name": "Marcos Acuña",
+      "club": "Sevilla",
+      "birthdate": "1991-10-28",
+      "position": "Defensa"
+    },
+    {
+      "name": "Cristian Romero",
+      "club": "Tottenham Hotspur",
+      "birthdate": "1998-04-27",
+      "position": "Defensa"
+    },
+    {
+      "name": "Nicolás Otamendi",
+      "club": "Benfica",
+      "birthdate": "1988-02-12",
+      "position": "Defensa"
+    },
+    {
+      "name": "Lisandro Martínez",
+      "club": "Manchester United",
+      "birthdate": "1997-01-18",
+      "position": "Defensa"
+    },
+    {
+      "name": "Nahuel Molina",
+      "club": "Atlético de Madrid",
+      "birthdate": "1998-02-26",
+      "position": "Defensa"
+    },
+    {
+      "name": "Leandro Paredes",
+      "club": "Juventus",
+      "birthdate": "1994-06-29",
+      "position": "Centrocampista"
+    },
+    {
+      "name": "Rodrigo de Paul",
+      "club": "Atlético de Madrid",
+      "birthdate": "1994-05-24",
+      "position": "Centrocampista"
+    },
+    {
+      "name": "Exequiel Palacios",
+      "club": "Bayer Leverkusen",
+      "birthdate": "1998-10-05",
+      "position": "Centrocampista"
+    },
+    {
+      "name": "Alejandro Gómez",
+      "club": "Sevilla",
+      "birthdate": "1988-02-15",
+      "position": "Centrocampista"
+    },
+    {
+      "name": "Guido Rodríguez",
+      "club": "Real Betis",
+      "birthdate": "1994-04-12",
+      "position": "Centrocampista"
+    },
+    {
+      "name": "Alexis Mac Allister",
+      "club": "Brighton & Hove Albion",
+      "birthdate": "1998-12-24",
+      "position": "Centrocampista"
+    },
+    {
+      "name": "Enzo Fernández",
+      "club": "Benfica",
+      "birthdate": "2000-03-17",
+      "position": "Centrocampista"
+    },
+    {
+      "name": "Julián Álvarez",
+      "club": "Manchester City",
+      "birthdate": "2000-01-31",
+      "position": "Delantero"
+    },
+    {
+      "name": "Lionel Messi",
+      "club": "Paris Saint-Germain",
+      "birthdate": "1987-06-24",
+      "position": "Delantero"
+    },
+    {
+      "name": "Ángel Di María",
+      "club": "Juventus",
+      "birthdate": "1988-02-14",
+      "position": "Delantero"
+    },
+    {
+      "name": "Ángel Correa",
+      "club": "Atlético de Madrid",
+      "birthdate": "1995-03-09",
+      "position": "Delantero"
+    },
+    {
+      "name": "Thiago Almada",
+      "club": "Atlanta United",
+      "birthdate": "2001-04-26",
+      "position": "Delantero"
+    },
+    {
+      "name": "Paulo Dybala",
+      "club": "Roma",
+      "birthdate": "1993-11-15",
+      "position": "Delantero"
+    },
+    {
+      "name": "Lautaro Martínez",
+      "club": "Internazionale",
+      "birthdate": "1997-08-22",
+      "position": "Delantero"
+    }
+  ],
+  "dt": {
+    "name": "Lionel Scaloni",
+    "birthdate": "1978-05-16"
+  }
+}
+
+ hace lo mismo pero para el de 2022 
+
+
+N.º	      	Nombre	Posición	Edad	PJ	G	Equipo	Equipo de debut
+1	Bandera de la Provincia de Santa Fe	Franco Armani	Guardameta	36 años	18	0	Bandera de Argentina River Plate	Bandera de Argentina Ferro Carril Oeste
+12	Bandera de la Provincia de Buenos Aires	Gerónimo Rulli	Guardameta	30 años	4	0	Bandera de España Villarreal	Bandera de Argentina Estudiantes de La Plata
+23	Bandera de la Provincia de Buenos Aires	Emiliano Martínez	Guardameta	30 años	19	0	Bandera de Inglaterra Aston Villa	Bandera de Inglaterra Oxford United
+2	Bandera de la Provincia de Buenos Aires	Juan Foyth	Defensa	24 años	16	0	Bandera de España Villarreal	Bandera de Argentina Estudiantes de La Plata
+3	Bandera de la Provincia de Buenos Aires	Nicolás Tagliafico	Defensa	30 años	42	0	Bandera de Francia Olympique Lyonnais	Bandera de Argentina Banfield
+4	Bandera de la Provincia de Buenos Aires	Gonzalo Montiel	Defensa	25 años	18	0	Bandera de España Sevilla	Bandera de Argentina River Plate
+6	Bandera de la Provincia de Buenos Aires	Germán Pezzella	Defensa	31 años	32	2	Bandera de España Real Betis	Bandera de Argentina River Plate
+8	Bandera de la Provincia del Neuquén	Marcos Acuña	Defensa	31 años	43	0	Bandera de España Sevilla	Bandera de Argentina Ferro Carril Oeste
+13	Bandera de la Provincia de Córdoba	Cristian Romero	Defensa	24 años	12	1	Bandera de Inglaterra Tottenham Hotspur	Bandera de Argentina Belgrano de Córdoba
+19	Bandera de la Ciudad de Buenos Aires	Nicolás Otamendi	Defensa	34 años	93	4	Bandera de Portugal Benfica	Bandera de Argentina Vélez Sarsfield
+25	Bandera de la Provincia de Entre Ríos	Lisandro Martínez	Defensa	24 años	10	0	Bandera de Inglaterra Manchester United	Bandera de Argentina Newell's Old Boys
+26	Bandera de la Provincia de Córdoba	Nahuel Molina	Defensa	24 años	20	0	Bandera de España Atlético de Madrid	Bandera de Argentina Boca Juniors
+5	Bandera de la Provincia de Buenos Aires	Leandro Paredes	Centrocampista	28 años	46	4	Bandera de Italia Juventus	Bandera de Argentina Boca Juniors
+7	Bandera de la Provincia de Buenos Aires	Rodrigo de Paul	Centrocampista	28 años	44	2	Bandera de España Atlético de Madrid	Bandera de Argentina Racing Club
+14	Bandera de la Provincia de Tucumán	Exequiel Palacios	Centrocampista	24 años	20	0	Bandera de Alemania Bayer Leverkusen	Bandera de Argentina River Plate
+17	Bandera de la Ciudad de Buenos Aires	Alejandro Gómez	Centrocampista	34 años	15	3	Bandera de España Sevilla	Bandera de Argentina Arsenal
+18	Bandera de la Provincia de Buenos Aires	Guido Rodríguez	Centrocampista	28 años	26	1	Bandera de España Real Betis	Bandera de Argentina River Plate
+20	Bandera de la Provincia de La Pampa	Alexis Mac Allister	Centrocampista	23 años	8	0	Bandera de Inglaterra Brighton & Hove Albion	Bandera de Argentina Argentinos Juniors
+24	Bandera de la Provincia de Buenos Aires	Enzo Fernández	Centrocampista	21 años	3	0	Bandera de Portugal Benfica	Bandera de Argentina River Plate
+9	Bandera de la Provincia de Córdoba	Julián Álvarez	Delantero	22 años	12	3	Bandera de Inglaterra Manchester City	Bandera de Argentina River Plate
+10	Bandera de la Provincia de Santa Fe	Lionel Messi Capitán	Delantero	35 años	165	91	Bandera de Francia Paris Saint-Germain	Bandera de España Barcelona
+11	Bandera de la Provincia de Santa Fe	Ángel Di María	Delantero	34 años	124	27	Bandera de Italia Juventus	Bandera de Argentina Rosario Central
+15	Bandera de la Provincia de Santa Fe	Ángel Correa	Delantero	27 años	22	3	Bandera de España Atlético de Madrid	Bandera de Argentina San Lorenzo
+16	Bandera de la Provincia de Buenos Aires	Thiago Almada	Delantero	21 años	1	0	Bandera de Estados Unidos Atlanta United	Bandera de Argentina Vélez Sarsfield
+21	Bandera de la Provincia de Córdoba	Paulo Dybala	Delantero	29 años	34	3	Bandera de Italia Roma	Bandera de Argentina Instituto de Córdoba
+22	Bandera de la Provincia de Buenos Aires	Lautaro Martínez	Delantero	25 años	40	21	Bandera de Italia Internazionale	Bandera de Argentina Racing Club
+Bandera de la Provincia de Santa Fe	Lionel Scaloni	Entrenador	44 años				
+22 de noviembre, 13:00	Argentina Bandera de Argentina	
+1:2 (1:0)
+
+Octavos de final
+Artículo principal: Octavos de final de la Copa Mundial de Fútbol de 2022
+3 de diciembre	Países Bajos Bandera de los Países Bajos	
+3:1 (2:0)
+Bandera de Estados Unidos Estados Unidos	Estadio Internacional Khalifa, Rayán	[mostrar]
+3 de diciembre	Argentina Bandera de Argentina	
+2:1 (1:0)
+Bandera de Australia Australia	Estadio Áhmad bin Ali, Rayán	[ocultar]
+22:00	Messi Anotado en el minuto 35 35'
+Álvarez Anotado en el minuto 57 57'	Reporte	Fernández Anotado en el minuto 77 77' (a.g.)	Asistencia: 45 032 espectadores
+Árbitro: Bandera de Polonia Szymon Marciniak
+VAR: Bandera de Polonia Tomasz Kwiatkowski
+Cuartos de final
+Artículo principal: Cuartos de final de la Copa Mundial de Fútbol de 2022
+9 de diciembre	Croacia Bandera de Croacia	
+1:1 (0:0, 0:0) (t. s.)
+(4:2 p.)
+Bandera de Brasil Brasil	Estadio Ciudad de la Educación, Rayán	[mostrar]
+9 de diciembre	Países Bajos Bandera de los Países Bajos	
+2:2 (2:2, 0:1) (t. s.)
+(3:4 p.)
+Bandera de Argentina Argentina	Estadio de Lusail, Lusail	[ocultar]
+22:00	Weghorst Anotado en los minutos 83 y 90+11 83', 90+11'	Reporte	Molina Anotado en el minuto 35 35'
+Messi Anotado en el minuto 73 73' (pen.)	Asistencia: 88 235 espectadores
+Árbitro: Bandera de España Antonio Mateu Lahoz
+VAR: Bandera de España Alejandro Hernández
+Semifinales
+Artículo principal: Semifinales de la Copa Mundial de Fútbol de 2022
+13 de diciembre	Argentina Bandera de Argentina	
+3:0 (2:0)
+Bandera de Croacia Croacia	Estadio de Lusail, Lusail	[ocultar]
+22:00	Messi Anotado en el minuto 34 34' (pen.)
+Álvarez Anotado en los minutos 39 y 69 39', 69'	Reporte		Asistencia: 88 966 espectadores
+Árbitro: Bandera de Italia Daniele Orsato
+VAR: Bandera de Italia Massimiliano Irrati
+Final
+Artículo principal: Final de la Copa Mundial de Fútbol de 2022
+18 de diciembre	Argentina Bandera de Argentina	
+3:3 (2:2, 2:0) (t. s.)
+(4:2 p.)
+Bandera de Francia Francia	Estadio de Lusail, Lusail	[ocultar]
+18:00	Messi Anotado en los minutos 23 y 109 23' (pen.), 109'
+Di María Anotado en el minuto 36 36'	Reporte	Mbappé Anotado en los minutos 80, 81 y 118 80' (pen.), 81', 118' (pen.)	Asistencia: 88 966 espectadores
+Árbitro: Bandera de Polonia Szymon Marciniak
+VAR: Bandera de Polonia Tomasz Kwiatkowski
+ 	 	Tiros desde el punto penal	 
