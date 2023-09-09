@@ -5,7 +5,9 @@ import cookieParser from "cookie-parser";
 
 //Routes 
 import apiKeyRoutes from './routes/apikey.routes.js'
-import wordCupRoutes from './routes/wordcupdata.routes.js'
+import wordCupRoutes from './routes/wordCupData.routes.js'
+import popularCitiesRoutes from './routes/popularcities.routes.js'
+import userRequestRoutes from './routes/userRequests.routes.js'
 
 const app = express();
 
@@ -19,5 +21,7 @@ app.use(cors());
 
 app.use('/api', apiKeyRoutes);
 app.use('/api', wordCupRoutes);
+app.use('/api', popularCitiesRoutes);
+app.use('/api', userRequestRoutes);
 
 export default app;

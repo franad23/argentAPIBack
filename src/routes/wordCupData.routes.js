@@ -1,5 +1,5 @@
 import { Router } from "express";
-import { getWorldCupData } from "../controllers/getrequest.controllers.js";
+import { getWorldCupData } from "../controllers/worldcup.controllers.js";
 const router =  Router();
 
 router.get('/wordcupdata/:id', getWorldCupData)

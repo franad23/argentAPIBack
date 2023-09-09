@@ -17,4 +17,4 @@ const popularCitiesByProv = new mongoose.Schema ({
     versionKey: false // Deshabilitar la generación del campo "__v"
 });
 
-export default mongoose.model('popularCitiesByProv', popularCitiesByProv)
+export default mongoose.model('popularcitiesbyprov', popularCitiesByProv)
