@@ -7,10 +7,12 @@ dotenv.config();
 export const creatingUserApiKey = async (req, res) => {
   sgMail.setApiKey(process.env.SENDGRID_API_KEY)
   const { useremail } = req.body;
+
+  if (!useremail) return res.status(400).json({ message: "Email no enviado" });
   const userFound = await Userapikey.findOne({ useremail });
   
   if (userFound) {
-    return res.status(400).json({ message: "Usuario ya existe, se envió la apiKey a su email" });
+    return res.status(200).json({ message: "Usuario ya existe, se envió la apiKey a su email" });
   }
   
   try {
@@ -30,7 +32,6 @@ export const creatingUserApiKey = async (req, res) => {
       .send(msg)
       .then(() => {
         console.log('Email sent');
-        // Después de enviar el correo electrónico, evita enviar otra respuesta JSON
         return res.json({ message: "Se envió la apiKey al Email" });
       })
       .catch((error) => {
