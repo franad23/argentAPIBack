@@ -5,15 +5,10 @@ import sgMail from "@sendgrid/mail";
 dotenv.config();
 
 export const creatingUserApiKey = async (req, res) => {
-  sgMail.setApiKey(process.env.SENDGRID_API_KEY)
+  sgMail.setApiKey(process.env.SENDGRID_API_KEY);
   const { useremail } = req.body;
-
-  if (!useremail) return res.status(400).json({ message: "Email no enviado" });
-  const userFound = await Userapikey.findOne({ useremail });
   
-  if (userFound) {
-    return res.status(200).json({ message: "Usuario ya existe, se envió la apiKey a su email" });
-  }
+  if (!useremail) return res.status(400).json({ message: "Email no enviado" });
   
   try {
     const newUserApiKey = new Userapikey({
