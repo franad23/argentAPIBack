@@ -1,5 +1,5 @@
-import Userapikey from '../model/usersapikey.model.js';
-import dotenv from "dotenv"
+import Userapikey from "../model/usersapikey.model.js";
+import dotenv from "dotenv";
 import sgMail from "@sendgrid/mail";
 
 dotenv.config();
@@ -7,15 +7,42 @@ dotenv.config();
 export const creatingUserApiKey = async (req, res) => {
   sgMail.setApiKey(process.env.SENDGRID_API_KEY);
   const { useremail } = req.body;
-  
+  const isUserExists = await Userapikey.findOne({ useremail: useremail });
+
   if (!useremail) return res.status(400).json({ message: "Email no enviado" });
-  
-  try {
+
+  if (isUserExists) {
+    try {
+      const msg = {
+        to: isUserExists.useremail,
+        from: "dfrancoandres@gmail.com",
+        subject: "Hola! aqui esta tu apiKey de ArgentAPI",
+        html: `Esta key es de uso personal, por favor no compartirla, ${isUserExists._id}`,
+      };
+
+      sgMail
+        .send(msg)
+        .then(() => {
+          console.log("Email sent");
+          return res.json({ message: "Usuario ya existe, se envia nuevamente la ApiKey" });
+        })
+        .catch((error) => {
+          console.error(error);
+          return res
+            .status(500)
+            .json({ message: "Error al enviar el correo electrónico" });
+        });
+    } catch (error) {
+      console.log(error);
+      return res.status(500).json("Error del servidor");
+    }
+  }
+  else {
+    try {
     const newUserApiKey = new Userapikey({
       useremail: useremail,
     });
     const userApiKeySaved = await newUserApiKey.save();
-    
     const msg = {
       to: useremail,
       from: 'dfrancoandres@gmail.com',
@@ -37,43 +64,7 @@ export const creatingUserApiKey = async (req, res) => {
     console.log(error);
     return res.status(500).json("Error del servidor");
   }
+  }
+
+  
 };
-
-export const recoveryApikey = async (req, res) => {
-  sgMail.setApiKey(process.env.SENDGRID_API_KEY)
-  const { useremail } = req.body;
-  const userFound = await Userapikey.findOne({ useremail });
-  
-  if (!userFound) {
-    return res.status(400).json({ message: "Usuario no existe" });
-  }
-  
-  try {
-    const newUserApiKey = new Userapikey({
-      useremail: useremail,
-    });
-    const userApiKeySaved = await newUserApiKey.save();
-    
-    const msg = {
-      to: useremail,
-      from: 'dfrancoandres@gmail.com',
-      subject: 'Recuperacion de apiKey de ArgentAPI',
-      html: `Esta key es de uso personal, por favor no compartirla, ${userApiKeySaved._id}`,
-    };
-
-    sgMail
-      .send(msg)
-      .then(() => {
-        console.log('Email sent');
-        // Después de enviar el correo electrónico, evita enviar otra respuesta JSON
-        return res.json({ message: "Se envió la apiKey al Email" });
-      })
-      .catch((error) => {
-        console.error(error);
-        return res.status(500).json({ message: "Error al enviar el correo electrónico" });
-      });
-  } catch (error) {
-    console.log(error);
-    return res.status(500).json("Error del servidor");
-  }
-}
